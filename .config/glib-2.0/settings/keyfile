@@ -1,0 +1,36 @@
+[org/virt-manager/virt-manager/vmlist-fields]
+disk-usage=false
+network-traffic=false
+
+host-cpu-usage=true
+
+[org/virt-manager/virt-manager/new-vm]
+graphics-type='system'
+
+cpu-default='host-model-only'
+
+[org/virt-manager/virt-manager]
+system-tray=true
+manager-window-width=550
+manager-window-height=520
+
+[org/virt-manager/virt-manager/stats]
+enable-disk-poll=true
+
+[org/virt-manager/virt-manager/connections]
+uris=['qemu:///session']
+autoconnect=['qemu:///session']
+
+[org/gtk/settings/file-chooser]
+window-position=(115, 0)
+window-size=(1134, 711)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=158
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'

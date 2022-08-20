@@ -1,0 +1,5 @@
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-runner'
+ - Cleaning stale single-instance lock:
+ -- Could not remove lock file
+Single-instance lock found
+ - Forwarding inputs to locking process and closing down this instance...

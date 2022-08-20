@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Network;WebBrowser;
+Comment=
+Exec=/home/runner/.nix-profile/bin/firefox %U
+GenericName=Web Browser
+Icon=/home/runner/.nix-profile/share/icons/hicolor/128x128/apps/firefox.png
+MimeType=text/html;text/xml;application/xhtml+xml;application/vnd.mozilla.xul+xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp
+Name=Firefox
+Terminal=false
+Type=Application

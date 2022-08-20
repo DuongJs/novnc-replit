@@ -1,0 +1,53 @@
+{
+    "OSType": "GNU/Linux",
+    "OSVersion": "Debian",
+    "RAM": 336,
+    "accelerator": [
+        "tcg"
+    ],
+    "audio": [
+        "ac97"
+    ],
+    "binary": "qemu-system-x86_64",
+    "boot": {
+        "bootMenu": true,
+        "bootOrder": [
+            "c",
+            "d"
+        ],
+        "kernelBoot": {
+            "enabled": true,
+            "initrdPath": "/home/runner/lxqt/initrd.gz",
+            "kernelArgs": "",
+            "kernelPath": "/home/runner/lxqt/vmlinuz"
+        }
+    },
+    "cpu": {
+        "CPUCount": 1,
+        "CPUType": "pentium3",
+        "coresSocket": 0,
+        "maxHotCPU": 1,
+        "socketCount": 0,
+        "threadsCore": 0
+    },
+    "description": "",
+    "gpu": {
+        "GPUType": "std",
+        "keyboard": "en-us"
+    },
+    "hostsoundsystem": "alsa",
+    "media": [
+        {
+            "interface": "hda",
+            "name": "debian.qcow2",
+            "path": "/home/runner/lxqt/qemu-machines/Debian/debian.qcow2",
+            "type": "hdd",
+            "uuid": "{6f8308cd-d385-4af2-9590-9f31f36bdb3f}"
+        }
+    ],
+    "name": "Debian",
+    "network": true,
+    "path": "/home/runner/lxqt/qemu-machines/Debian",
+    "type": "pc-i440fx-3.0",
+    "uuid": "{a9533c9d-faed-4d47-9bfa-a30545da525e}"
+}

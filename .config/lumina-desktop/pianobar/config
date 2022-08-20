@@ -1,0 +1,5 @@
+audio_quality = medium
+autoselect = 1
+format_list_song = %r::::%t::::%a
+format_nowplaying_song = %r::::%t::::%a::::%l::::%u::::%s
+format_nowplaying_station = %n::::%i

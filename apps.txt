@@ -1,0 +1,34 @@
+About LXQt;;lxqt-about
+Appearance;;lxqt-config-appearance
+Brightness;;lxqt-config-brightness
+Date and Time;;lxqt-admin-time
+Desktop Notifications;;lxqt-config-notificationd
+Desktop;;pcmanfm-qt --desktop-pref=general
+File Associations;;lxqt-config-file-associations
+Hibernate;;lxqt-leave --hibernate
+Keyboard and Mouse;;lxqt-config-input
+Leave;;lxqt-leave
+Locale;;lxqt-config-locale
+Lock Screen;;lxqt-leave --lockscreen
+Logout;;lxqt-leave --logout
+LXImage;;lximage-qt
+LXQt Configuration Center;;lxqt-config
+LXQt File Archiver;;lxqt-archiver
+Monitor settings;;lxqt-config-monitor
+Openbox Settings;;obconf-qt
+PCManFM-Qt File Manager;;pcmanfm-qt
+Power Management;;lxqt-config-powermanagement
+PulseAudio Volume Control;;pavucontrol-qt
+Qlipper;;qlipper
+qps;;qps
+QTerminal drop down;;qterminal --drop
+QTerminal;;qterminal
+Reboot;;lxqt-leave --reboot
+ScreenGrab;;screengrab
+Screenshot;;lximage-qt --screenshot
+Session Settings;;lxqt-config-session
+Shortcut Keys;;lxqt-config-globalkeyshortcuts
+Shutdown;;lxqt-leave --shutdown
+Suspend;;lxqt-leave --suspend
+Users and Groups;;lxqt-admin-user
+Window Effects;;compton-conf

@@ -1,0 +1,19 @@
+#Automatically generated with lumina-config
+# DO NOT CHANGE MANUALLY
+[Default Applications]
+unknown/xterm=/nix/store/lky7pak45kwp47wnlqq5x6l2j89lvbcq-xterm-370/bin/xterm;
+inode/directory=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-fm.desktop;
+x-scheme-handler/http=chromium-browser.desktop;
+x-scheme-handler/https=chromium-browser.desktop;
+text/*=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-textedit.desktop;
+audio/*=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-mediaplayer.desktop;
+video/*=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-mediaplayer.desktop;
+application/zip=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+application/x-compressed-tar=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+application/x-bzip-compressed-tar=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+application/x-lrzip-compressed-tar=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+application/x-lzma-compressed-tar=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+application/x-xz-compressed-tar=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+application/x-tar=/nix/store/wjzffxqilhlll5vk3aig05wls9f8w1bl-lumina-1.6.0/share/applications/lumina-archiver.desktop;
+unknown/*=lumina-textedit.desktop;
+application/x-shellscript=lumina-textedit.desktop;
